@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.12.1"
+    "cypress": "^4.12.1",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-cypress": "^2.11.1",
+    "eslint-plugin-import": "^2.22.0"
   }
 }
